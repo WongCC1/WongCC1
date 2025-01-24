@@ -1,24 +1,6 @@
 <h1 align="center">Hi 😌, I'm Jacky Wong</h1>
 <h3 align="center">A passionate creator from Hong Kong</h3>
 
-- 🔭 I’m currently working on **(to be determined)**
-
-- 🌱 I’m currently learning **Japanese**
-
-- 👯 I’m looking to collaborate on **(to be determined)**
-
-- 🤝 I’m looking for help with **(to be determined)**
-
-- 👨‍💻 All of my projects are available at [(to be determined)]((to be determined))
-
-- 📝 I regularly write articles on [(to be determined)]((to be determined))
-
-- 💬 Ask me about **whatever you want**
-
-- 📫 How to reach me **(not available)**
-
-- 📄 Know about my experiences [(to be determined)]((to be determined))
-
 - ⚡ Fun fact **I close my eyes while sleeping.**
 
 <h3 align="left">Connect with me:</h3>
